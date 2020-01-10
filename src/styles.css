@@ -1,4 +1,7 @@
 .App {
   font-family: sans-serif;
-  text-align: center;
+}
+
+.wrap-bred-crumb {
+  display: flex;
 }
