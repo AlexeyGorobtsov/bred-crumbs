@@ -30,5 +30,6 @@ module.exports = {
         "curly": 2,
         "quotes": [2, "double"],
         "react/jsx-indent": [ "error", 2 ],
+        "react/prop-types": 0
     }
 };
